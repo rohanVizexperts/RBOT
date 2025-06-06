@@ -1,0 +1,7 @@
+build/*
+data/*
+
+src/main copy.cpp
+
+app/*.dll
+app/*.zip
